@@ -1,0 +1,8 @@
+{
+  "horizon": 80,
+  "arrival_rate": 5.0,
+  "queue_limit": 48,
+  "bandwidth_mhz": 1.0,
+  "deadline_slots": [3, 7],
+  "inner_iterations": 30
+}

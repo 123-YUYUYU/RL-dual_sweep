@@ -1,0 +1,19 @@
+{
+  "horizon": 60,
+  "slot_seconds": 0.5,
+  "arrival_rate": 2.5,
+  "queue_limit": 64,
+  "device_ghz": [1.0, 1.3, 1.6, 1.2],
+  "edge_ghz": [4.0, 6.0, 8.0],
+  "device_power_w": [0.4, 0.5, 0.6, 0.4],
+  "edge_model_rank": [0, 1, 1],
+  "model_parameters_b": [0.6, 1.7],
+  "bandwidth_mhz": 2.0,
+  "input_mbit": [0.3, 1.2],
+  "work_gcycles": [0.5, 2.5],
+  "deadline_slots": [4, 10],
+  "advanced_task_fraction": 0.25,
+  "inner_iterations": 30,
+  "inner_tolerance": 0.0001,
+  "energy_weight": 0.1
+}
